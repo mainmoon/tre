@@ -1,0 +1,134 @@
+* {cursor: url(https://cur.cursors-4u.net/cursors/cur-2/cur116.cur), auto !important;
+}
+body {
+       background-color: #424b54;
+       margin-left: 480px;
+       margin-right: 480px;
+}
+.titulo h1 {
+       color: #e85d75;
+       font-size: 100px;
+       text-align: center;
+       text-shadow: 0.1em 0.1em 0.2em black;
+}
+.seleccion {
+       font-size: 25px;
+       text-align: center;
+}
+.seleccion a {
+       color: #e85d75;
+       text-decoration: none;
+}
+.seleccion:hover {
+       background: rgba(83,193,255,0.2);
+}
+.aguacate img {
+       width: 330px;
+       padding-top: 75px;
+       border-radius: 50%;
+}
+.bcp {
+       background-color: #424b54;
+       margin-left: 100px;
+       margin-right: 100px;
+}
+.frc h1 {
+       color: #cfffb0;
+       font-size: 50px;
+       text-align: center;
+       text-shadow: 0.1em 0.1em 0.2em black;
+}
+.frd img {
+       width: 200px;
+       border-radius: 20px;
+}
+.fre {
+       display: flex;
+       flex-direction: row;
+}
+.frf {
+       padding-left: 20px;
+       font-size: 25px;
+       color: #cfffb0;
+}
+.dat p {
+       color: #cfffb0;
+       font-size: 25px;
+       padding-left: 20px;
+}
+.dt {
+       padding-left: 50px;
+}
+.tl {
+       padding-left: 20px;
+}
+table {
+       color: #cfffb0;
+}
+.tl tr:hover {
+       background: rgba(83,193,255,0.2);
+       border: hidden;
+}
+.data p {
+       color: #cfffb0;
+       font-size: 25px;
+       background: rgba(83,193,255,0.2);
+}
+.dta {
+       padding-left: 25px;
+}
+.re a {
+       color: #e85d75;
+       text-decoration: none;
+       text-align: center;
+}
+.re {
+       padding-top: 100px;
+       padding-bottom: 20px;
+       padding-left: 800px;
+}
+.alien img {
+       margin-left: 150px;
+       border-radius: 20px;
+}
+.trailer{
+       margin-left: 160px;
+}
+.hi {
+       color: #cfffb0;
+}
+.hi p {
+       text-align: justify;
+}
+.des p {
+       color: #cfffb0;
+       font-size: 18px;
+       background: rgba(83,193,255,0);
+}
+.kombat img {
+       margin-left: 180px;
+}
+.tutorial img {
+       margin-left: 32px;
+       width: 1000px;
+       clip-path: inset(0px 0px 332px 0px);
+}
+.tutorial {
+       height: 500px;
+}
+.tuto img {
+       margin-left: 32px;
+       width: 1000px;
+       clip-path: inset(0px 0px 570px 0px);
+}
+.tuto {
+       height: 250px;
+}
+.tutori img {
+       margin-left: 32px;
+       width: 1000px;
+       clip-path: inset(0px 0px 570px 0px);
+}
+.tutori {
+       height: 200px;
+}
